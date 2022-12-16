@@ -1,0 +1,33 @@
+body{
+ font-family: 'Unbounded', cursive;
+ background-color: coral;
+}
+.header_div{
+    background-color: cornsilk;
+    color: blue;
+}
+.header_div p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 200;
+    font-size: large;
+    letter-spacing: 3px;
+}
+
+#button1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 5px;
+    width: 100px;
+    font-weight: 300;
+    letter-spacing: 2px;
+    background-color: darkgreen;
+}
+.copy_right_footer{
+    background-color: teal;
+    color: rgb(255, 255, 255);
+    width: 100%;
+font-size: medium;
+line-height: 20px;
+text-shadow: 4px 4px 20px rgb(251, 251, 11);
+text-align: center;
+margin-top: 175px;
+}
